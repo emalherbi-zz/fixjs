@@ -6,6 +6,8 @@ JQuery Plugin for Fix.
 Usage
 -----
 
+## HTML
+
 ```html
 <div class="row fix-container-right">
 
@@ -21,6 +23,8 @@ Usage
 
 </div>
 ```
+
+## CSS
 
 ```css
 .fix-container-right {
@@ -38,6 +42,8 @@ Usage
 }
 ```
 
+## JS
+
 ```js
 $('#menu-right').fix({
   container : 'fix-container-right',
@@ -46,6 +52,8 @@ $('#menu-right').fix({
   top : $('.ls-topbar').height() + 'px'
 });
 ```
+
+## Page Example
 
 [Example](https://emalherbi.github.io/fixjs/)
 
