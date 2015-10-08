@@ -1,5 +1,5 @@
 /*!
- * fixjs v1.0.0 (https://github.com/emalherbi/fixjs/)
+ * fixjs v1.0.1 (https://github.com/emalherbi/fixjs/)
  * Copyright 2010-2015 emalherbi
  * Licensed under MIT (http://en.wikipedia.org/wiki/MIT_License)
  */.fix-container{position:relative}.fix{position:fixed;z-index:900}.fix-end{position:absolute;bottom:0}.fix-container-right{position:relative}.fix-right{position:fixed;right:15px;z-index:900}.fix-right-end{position:absolute;right:15px;bottom:0}.fix-container-left{position:relative}.fix-left{position:fixed;z-index:900}.fix-left-end{position:absolute;bottom:0}
